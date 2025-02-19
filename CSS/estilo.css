@@ -1,0 +1,62 @@
+body {
+    background-color: blueviolet;
+}
+
+.hoja1 {
+    background-color: aqua;
+    width: 1500px;
+    height: 700px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.hoja2 {
+    background-color: rgb(72, 255, 157);
+    width: 1150px;
+    height: 550px;
+    padding: 30px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.hoja3 {
+    background-color: rgb(255, 220, 131);
+    width: 800px;
+    height: 430px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 50px;
+}
+.hoja4 {
+    background-color: rgb(161, 247, 255);
+    width: 600px;   
+    height: 300px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.hoja5 {
+    background-color: rgb(22, 56, 148);
+    width: 500px;   
+    height: 150px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.hoja6 {
+    background-color: rgb(73, 190, 252);
+    width: 300px; 
+    height: 70px;
+    padding: 15px;
+    margin: auto;
+    margin-top: 15px;
+}
+
+h1{
+    text-align: center;
+    padding: 5px;
+    margin: auto;
+}
